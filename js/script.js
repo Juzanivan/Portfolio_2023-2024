@@ -35,13 +35,13 @@ function currentSlide(n) {
     setTimeout(function() {
         document.querySelector('.carousel-descr').style.opacity = 1; 
         if (n === 0) {
-            textParagraphe.innerHTML = "Découvrez le concert caritatif Unicert 2024, un événement musical diversifié avec des stars de tous genres. Idéal pour tous les âges, cet événement promet des sensations uniques et mémorables !";
+            textParagraphe.innerHTML = "Lorem ipsum1";
         }
         else if (n === 1) {
-            textParagraphe.innerHTML = "Unicert 2024 offre un spectacle inoubliable avec des genres musicaux variés, chacun réalisés par des Youtubeurs, célébrant la diversité artistique dans une ambiance festive.";
+            textParagraphe.innerHTML = "Lorem ipsum2";
         }
         else {
-            textParagraphe.innerHTML = "Cet événement caritatif allie plaisir et altruisme, avec des fonds destinés à des causes humanitaires et environnementales, enrichi d'ateliers éducatifs et interactifs.";
+            textParagraphe.innerHTML = "Lorem ipsum3";
         }
     }, 800); 
 }
@@ -54,13 +54,13 @@ function moveSlides(n) {
     setTimeout(function() {
         document.querySelector('.carousel-descr').style.opacity = 1; 
         if (slideIndex === 0) {
-            textParagraphe.innerHTML = "Découvrez le concert caritatif Unicert 2024, un événement musical diversifié avec des stars de tous genres. Idéal pour tous les âges, cet événement promet des sensations uniques et mémorables !";
+            textParagraphe.innerHTML = "Lorem ipsum1";
         }
         else if (slideIndex === 1) {
-            textParagraphe.innerHTML = "Unicert 2024 offre un spectacle inoubliable avec des genres musicaux variés, chacun réalisés par des Youtubeurs, célébrant la diversité artistique dans une ambiance festive.";
+            textParagraphe.innerHTML = "Lorem ipsum2";
         }
         else {
-            textParagraphe.innerHTML = "Cet événement caritatif allie plaisir et altruisme, avec des fonds destinés à des causes humanitaires et environnementales, enrichi d'ateliers éducatifs et interactifs.";
+            textParagraphe.innerHTML = "Lorem ipsum3";
         }
     }, 800);  
 }

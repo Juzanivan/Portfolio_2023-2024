@@ -11,12 +11,11 @@
 <div class="main">
     <div class="carousel">
         <div class="carousel-descr">
-            <h1 class="carousel-title">UNICERT 2024</h1>
+            <h1 class="carousel-title">Jules ZANIVAN</h1>
             <p class="carousel-text">
-            Découvrez le concert caritatif Unicert 2024, un événement musical diversifié avec des stars de tous genres. 
-            Idéal pour tous les âges, cet événement promet des sensations uniques et mémorables !
+            Lorem ipsum1
             </p>
-            <a href="#artistes" class="carousel-button">EN SAVOIR PLUS</a>
+            <a href="#" class="carousel-button">EN SAVOIR PLUS</a>
         </div>
         <div class="carousel-images">
             <img src="img/image1.jpg" alt="img1">
